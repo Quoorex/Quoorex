@@ -7,6 +7,7 @@
   - Docker
   - Nix/NixOS
 - Python
+  - Data Science (NumPy, Pandas, Jupyter)
   - Web Development (Django, Flask)
   - Scraping (requests, Selenium, Pyppeteer)
 - JavaScript
